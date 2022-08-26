@@ -1,0 +1,14 @@
+.nav-bar{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+}
+.enlaces{
+    display: flex;
+    flex-direction: row;
+}
+.foto1 .foto2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
